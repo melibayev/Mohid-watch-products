@@ -112,13 +112,13 @@ nav{
 .header__search img{
     position: absolute;
     left: 20px;
-    top: 18px;
+    top: 19.5px;
 }
 
 .header__search button{
     position: absolute;
     padding: 10px 22px;
-    top: 8px;
+    top: 9px;
     left: calc(50% + 25px);
     font-family: 'Poppins';
     font-style: normal;
